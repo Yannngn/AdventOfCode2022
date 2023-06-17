@@ -1,5 +1,3 @@
-score = {"A": 1, "B": 2, "C": 3}
-
 response = {
     "A X": "A C",
     "A Y": "A A",
